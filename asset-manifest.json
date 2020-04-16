@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccef4865.chunk.css",
+    "main.js": "/static/js/main.916e5dbd.chunk.js",
+    "main.js.map": "/static/js/main.916e5dbd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5d19c65d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5d19c65d.js.map",
+    "static/js/2.428a6510.chunk.js": "/static/js/2.428a6510.chunk.js",
+    "static/js/2.428a6510.chunk.js.map": "/static/js/2.428a6510.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4c74922e62eb8b9d0ee4d80adbe50b08.js": "/precache-manifest.4c74922e62eb8b9d0ee4d80adbe50b08.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ccef4865.chunk.css.map": "/static/css/main.ccef4865.chunk.css.map",
+    "static/js/2.428a6510.chunk.js.LICENSE.txt": "/static/js/2.428a6510.chunk.js.LICENSE.txt",
+    "static/media/Cold War.png": "/static/media/Cold War.9d1d6ea5.png",
+    "static/media/Description.png": "/static/media/Description.b00696af.png",
+    "static/media/Head.png": "/static/media/Head.06c1162e.png",
+    "static/media/Ida.png": "/static/media/Ida.84dd168f.png",
+    "static/media/Ils aimaient la vie.png": "/static/media/Ils aimaient la vie.8cae7f4d.png",
+    "static/media/index.css": "/static/media/bg-poland@2x.917309a7.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d19c65d.js",
+    "static/js/2.428a6510.chunk.js",
+    "static/css/main.ccef4865.chunk.css",
+    "static/js/main.916e5dbd.chunk.js"
+  ]
+}
